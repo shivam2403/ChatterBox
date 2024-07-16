@@ -28,11 +28,7 @@ const SignUp = () => {
     <div className='flex flex-col items-center justify-center min-w-96 max-auto'>
       <div className="w-full p-6 rounded-lg shadow-md bg-gray-400 bg-clip-padding backdrop-filter backdrop-blur-lg bg-opacity-0">
         <h1 className='text-3xl font-semibold text-center text-gray-300'>Signup 
-<<<<<<< HEAD
-        <span className='text-blue-500'> ChatterBox</span>
-=======
         <span className='text-blue-500'> ChatApp</span>
->>>>>>> a33eaa6a74e9dbb69a65836159e70088c6c0ea71
         </h1>
 
         <form onSubmit={handleSubmit}>
